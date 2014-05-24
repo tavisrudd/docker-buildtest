@@ -1,3 +1,3 @@
 FROM ubuntu
 MAINTAINER Tavis Rudd tavis@damnsimple.com
-EXPOSE ["rev"]
+ENTRYPOINT ["rev"]
